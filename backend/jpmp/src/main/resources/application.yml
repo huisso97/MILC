@@ -37,7 +37,7 @@ server:
     enabled : true
     key-store-type : PKCS12
     key-store : /root/key.p12
-    key-store-password : ssafy
+    key-store-password : 
     #인증서 비밀번호
 
 mybatis:
